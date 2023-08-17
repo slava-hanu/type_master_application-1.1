@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/slava-hanu.github.io/type-master-application-/static/css/main.c127f152.css",
+    "main.js": "/slava-hanu.github.io/type-master-application-/static/js/main.ddfe6d57.js",
+    "static/js/787.82c5341a.chunk.js": "/slava-hanu.github.io/type-master-application-/static/js/787.82c5341a.chunk.js",
+    "index.html": "/slava-hanu.github.io/type-master-application-/index.html",
+    "main.c127f152.css.map": "/slava-hanu.github.io/type-master-application-/static/css/main.c127f152.css.map",
+    "main.ddfe6d57.js.map": "/slava-hanu.github.io/type-master-application-/static/js/main.ddfe6d57.js.map",
+    "787.82c5341a.chunk.js.map": "/slava-hanu.github.io/type-master-application-/static/js/787.82c5341a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c127f152.css",
+    "static/js/main.ddfe6d57.js"
+  ]
+}
