@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/slava-hanu.github.io/type_master_application/static/css/main.c127f152.css",
-    "main.js": "/slava-hanu.github.io/type_master_application/static/js/main.5a2923a2.js",
+    "main.css": "/slava-hanu.github.io/type_master_application/static/css/main.f3e7b9ff.css",
+    "main.js": "/slava-hanu.github.io/type_master_application/static/js/main.1bcb6187.js",
     "static/js/787.82c5341a.chunk.js": "/slava-hanu.github.io/type_master_application/static/js/787.82c5341a.chunk.js",
     "index.html": "/slava-hanu.github.io/type_master_application/index.html",
-    "main.c127f152.css.map": "/slava-hanu.github.io/type_master_application/static/css/main.c127f152.css.map",
-    "main.5a2923a2.js.map": "/slava-hanu.github.io/type_master_application/static/js/main.5a2923a2.js.map",
+    "main.f3e7b9ff.css.map": "/slava-hanu.github.io/type_master_application/static/css/main.f3e7b9ff.css.map",
+    "main.1bcb6187.js.map": "/slava-hanu.github.io/type_master_application/static/js/main.1bcb6187.js.map",
     "787.82c5341a.chunk.js.map": "/slava-hanu.github.io/type_master_application/static/js/787.82c5341a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c127f152.css",
-    "static/js/main.5a2923a2.js"
+    "static/css/main.f3e7b9ff.css",
+    "static/js/main.1bcb6187.js"
   ]
 }
