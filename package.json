@@ -2,7 +2,7 @@
   "name": "type-master",
   "version": "0.1.0",
   "private": true,
-  "homepage": "slava-hanu.github.io/type_master_application",
+  "homepage": "slava-hanu.github.io/type_master_application-1.1",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.5",
