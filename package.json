@@ -2,7 +2,7 @@
   "name": "type-master",
   "version": "0.1.0",
   "private": true,
-  "homepage": "slava-hanu.github.io/type_master_application-1.1",
+  "homepage": "https://slava-hanu.github.io/type_master_application-1.1",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.5",
@@ -19,7 +19,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages-d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -44,6 +44,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.0.0"
+    "gh-pages": "^6.3.0"
   }
 }
